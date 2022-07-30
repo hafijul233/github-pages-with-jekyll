@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2022-07-30
+---
+
 It looks like your pull request description is empty, @hafijul233.
 
 Did you know? By adding keywords to your pull request, you can automatically close issues.
